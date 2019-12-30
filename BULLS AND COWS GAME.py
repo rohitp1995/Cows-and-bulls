@@ -11,7 +11,7 @@ Repeat='Yes'
 Guess=0
 
 while Repeat=='Yes':
-    print(random)
+    
     user_input=int(input("enter a number"))
     user_input_list=[]
     cows=0
